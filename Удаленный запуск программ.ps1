@@ -1,0 +1,2 @@
+﻿Invoke-Command -ComputerName [PC-NAME] -Credential [Admin-PC] -ScriptBlock {cd 'C:\Program Files\AnyDesk\AnyDesk.exe'}
+Invoke-Command -ComputerName [PC-NAME] -Credential [Admin-PC] -ScriptBlock {cd 'C:\Program Files\TeamViewer\TeamViewer.exe'}

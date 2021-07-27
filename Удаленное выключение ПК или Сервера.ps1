@@ -1,0 +1,1 @@
+﻿Invoke-Command -ComputerName [PC-NAME] -Credential [Admin-PC] -ScriptBlock {Stop-Computer -Force}
